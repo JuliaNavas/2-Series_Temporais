@@ -1,2 +1,2 @@
-# 2 - Econometria Avançada - Aula2
-Slides e códigos da segunda aula de Econometria avançada.
+# Introdução às Séries Temporais
+Slides e códigos da aula 2 de Econometria Avançada - Séries Temporais na USJT.
